@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1207
+
+My $0.02 worth of...
+Working with DNA sequences, especially if you don't have a Unix machine handy might need a few tools. Some of the modifications are simple enough that even a trivial Vim script would deal with.
+What you can do:
+- get the reverse-complement of a sequence
+- count A/T/C/Gs in a sequence and get a very crude Tm for a primer
+- brush-up a few file formats (PS from ClustalX, FASTA etc).
+
+Many thanks to Will Nater and Tim Chase for helping!
+
+Version "1.0" means that, up to now, I did not have any screwed-up sequence, but this is far from saying that it's definitely foolproof.
